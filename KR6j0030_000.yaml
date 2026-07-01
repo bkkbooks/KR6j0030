@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0030/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽中略出念誦經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0866.xml
+    old_id: T18n0866
+hash: sha256:d50d73cab892588ce6483e1eb2e4b688984ffe94df8f52cc5bd74d2c2c3dfff1

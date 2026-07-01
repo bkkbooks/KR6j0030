@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR6j0030/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0030/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂瑜伽中略出念誦經
+  identifiers:
+    krp: KR6j0030
+    cbeta: T18n0866
+    cbeta_old_id: T18n0866
+    authorityid: CA0001662
+    json_key: T0866
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0866.xml
+    old_id: T18n0866
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0030_000-T.yaml, hash: 'sha256:d50d73cab892588ce6483e1eb2e4b688984ffe94df8f52cc5bd74d2c2c3dfff1'}
+  - {seq: 1, filename: KR6j0030_001-T.yaml, hash: 'sha256:c1a34d0eb9ecaa3536373fb132b87260457da4f9894e87dbbce9d4621d8239bc'}
+  - {seq: 2, filename: KR6j0030_002-T.yaml, hash: 'sha256:e0b047c98ddd4e523a913b5757390d2a34ed2d2a65f46dba48c6191afb956919'}
+  - {seq: 3, filename: KR6j0030_003-T.yaml, hash: 'sha256:8baf0b619b095256ab42fcd87279ca44257870e0aa428b3633b65439e7c5589b'}
+  - {seq: 4, filename: KR6j0030_004-T.yaml, hash: 'sha256:34cec61735d80a17327dd9e8f8620ce6c240ab65f41921c42acfc367d4bcb1fa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0030_000-T.markers.yaml, hash: 'sha256:eb079a644f584f17cae1f5eaf3448e2555f001b02b372eee4694298c78a761f4'}
+  - {seq: 1, role: markers, filename: assets/KR6j0030_001-T.markers.yaml, hash: 'sha256:54e00da191f4bf8c14393577f5899c488c805c704b5c9838d2aa1ea6f2855b19'}
+  - {seq: 2, role: markers, filename: assets/KR6j0030_002-T.markers.yaml, hash: 'sha256:bd18af4a95a60639c8861dfcd8770d3c6e8b7ca285837e28d36688b227ae94e6'}
+  - {seq: 3, role: markers, filename: assets/KR6j0030_003-T.markers.yaml, hash: 'sha256:dedff1d09ce1744be211a16565bf3d032416244e94ab2d114ed77a2330b1a9d3'}
+  - {seq: 4, role: markers, filename: assets/KR6j0030_004-T.markers.yaml, hash: 'sha256:a590f04683bc55697abccda5efddc0ec82d60797e70ba52f55bb5c830420688c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0030_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10016
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0030_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9952
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0030_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9246
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0030_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8783
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    四'
+  type: juan
+  level: 1
+hash: sha256:46d1090dfc9601e91ffaacbb4efff9e5e4eee64bfe30da0ebd28ccf1c5a51727

@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6j0030/v1
+canonical_location: https://kanripo.org/bkk/KR6j0030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂瑜伽中略出念誦經
+  identifiers:
+    alt_id:
+    - T18n0866
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0866.xml
+    old_id: T18n0866
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 甲
+  label: 甲
+  source_xml_id: wit5
+- short: 乙
+  label: 乙
+  source_xml_id: wit6
+- short: 丙
+  label: 丙
+  source_xml_id: wit7
+- short: 丁
+  label: 丁
+  source_xml_id: wit8
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0030_000.yaml, hash: 'sha256:d50d73cab892588ce6483e1eb2e4b688984ffe94df8f52cc5bd74d2c2c3dfff1'}
+  - {seq: 1, filename: KR6j0030_001.yaml, hash: 'sha256:1f8eea4fb0fe94cce609af9cf102e663a1f642f30daa2fd9dc1c3638bcdd0403'}
+  - {seq: 2, filename: KR6j0030_002.yaml, hash: 'sha256:382b1cd2d8f6cfe326f85c4e47153463cf184b2ce5f89184e24b5cd071bb49f3'}
+  - {seq: 3, filename: KR6j0030_003.yaml, hash: 'sha256:e8854104750f5a5eda1e8dacd104cd5d5f435bd095a4dad3a260c791030c98ec'}
+  - {seq: 4, filename: KR6j0030_004.yaml, hash: 'sha256:630dea13b57c4667cdaa0c68770722bf360160669889616ea69fc30e69c8c256'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0030_001.markers.yaml, hash: 'sha256:1a934ab364edfcbdc03817eef05a4ac7d8d848030e5da7000b21fa0413c57c36'}
+  - {seq: 2, role: markers, filename: assets/KR6j0030_002.markers.yaml, hash: 'sha256:d6b1b3506d673498e8fc686cd9fecc23c6af35b926d9e37fbcf16eee7cde49b6'}
+  - {seq: 3, role: markers, filename: assets/KR6j0030_003.markers.yaml, hash: 'sha256:fd417a79bd5da2ebd29f4452d0ec6e039759a74c86a6e0e5434d9effd31d8dc6'}
+  - {seq: 4, role: markers, filename: assets/KR6j0030_004.markers.yaml, hash: 'sha256:39cc4c647301f5e980152193792c14e965ae59426207f7bad9f859ff8dcb712a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0030_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10016
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0030_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9952
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0030_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9246
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0030_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8783
+  label: '金剛頂瑜伽中略出念誦經卷第
+
+    四'
+  type: juan
+  level: 1
+hash: sha256:b6120852845f5a93c414e569fa2b3775d3b13c5505032940564a4dd8bf22903e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
